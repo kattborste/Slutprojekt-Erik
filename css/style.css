@@ -7,3 +7,23 @@
 	padding-top: 20px;
 	padding-right: 10px;
 }
+.bildh2{
+	float: right;
+	padding-right: 5px;
+}
+.helvetica{
+	font-family: helvetica;
+	font-size: 17px;
+}
+.footer{
+	background-color: lightgray;
+}
+.bildv{
+	float:left;
+}
+.textfooter{
+	padding-left: 10px;
+}
+body{
+	background-image: url(../img/himmel.png);
+}
