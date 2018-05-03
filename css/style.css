@@ -9,13 +9,13 @@
 }
 .bildh2{
 	float: right;
-	padding-right: 5px;
 }
 .helvetica{
 	font-family: helvetica;
 	font-size: 17px;
 }
 .footer{
+	margin-top: 10px;
 	background-color: lightgray;
 }
 .bildv{
@@ -27,4 +27,18 @@
 }
 body{
 	background-image: url(../img/himmel.png);
+}
+.aktiv{
+	font-weight: bold;
+}
+.menyt{
+	font-size: 20px;
+}
+.centr{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.gallmarg{
+	margin: 5px;
 }
