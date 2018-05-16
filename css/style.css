@@ -42,3 +42,16 @@ body{
 .gallmarg{
 	margin: 5px;
 }
+
+.text-familj{
+	text-align: justify;
+	width: 340px;
+}
+
+.text-familj img{
+	display: block;
+	margin: 0 auto;
+}
+figure{
+	display: inline-block;
+}
